@@ -3,12 +3,6 @@
 A simple web-based tool for analyzing and processing text. Features include:
 
 - Word count
-- Sentence count
-- Paragraph count
-- Character count (with and without spaces)
-- Average word length
-- Average words per sentence
-- Average sentences per paragraph
 - Search for specific words and highlight them
 - Censor foul language (strikethrough and red color)
 - Live preview of processed text
